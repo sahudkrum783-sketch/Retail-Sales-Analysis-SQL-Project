@@ -463,4 +463,3 @@ The project showcases important SQL concepts including:
 ---
 
 - LinkedIn: [https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/anushkasahu783/)
-<img width="683" height="8451" alt="image" src="https://github.com/user-attachments/assets/dcf1a2dc-d629-4d3e-8c80-a1736d9d9554" />
